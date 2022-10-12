@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YUJOO-LEE/music_player/static/css/main.d72dc6b8.css",
+    "main.js": "/YUJOO-LEE/music_player/static/js/main.a7d94c90.js",
+    "index.html": "/YUJOO-LEE/music_player/index.html",
+    "main.d72dc6b8.css.map": "/YUJOO-LEE/music_player/static/css/main.d72dc6b8.css.map",
+    "main.a7d94c90.js.map": "/YUJOO-LEE/music_player/static/js/main.a7d94c90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72dc6b8.css",
+    "static/js/main.a7d94c90.js"
+  ]
+}
